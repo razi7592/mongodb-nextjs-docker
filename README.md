@@ -1,1 +1,0 @@
-# mongodb-nextjs-docker
